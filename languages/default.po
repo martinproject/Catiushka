@@ -1,0 +1,1427 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Autotrader Theme 1.1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-06-08 15:10+0200\n"
+"PO-Revision-Date: 2012-06-08 15:10+0200\n"
+"Last-Translator: Inoart <support@inoart.com>\n"
+"Language-Team: Inoart\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__\n"
+"X-Poedit-Basepath: D:\\xampp\\htdocs\\inoart\\wp\\demo\\autotrader\\wp-content\\themes\\autotrader_1.1.3\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:6
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:14
+msgid "Sorry, we could not find the page you are looking for."
+msgstr ""
+
+#: 404.php:15
+msgid "Please search the content at site."
+msgstr ""
+
+#: archive.php:6
+#: category.php:6
+#: part-single-post.php:7
+msgid "Autotrader Blog"
+msgstr ""
+
+#: archive.php:35
+#: category.php:35
+#: page.php:28
+#: part-single-post.php:32
+#: search.php:35
+msgid "No comments"
+msgstr ""
+
+#: archive.php:35
+#: category.php:35
+#: comments.php:18
+#: page.php:28
+#: part-single-post.php:32
+#: search.php:35
+msgid "1 Comment"
+msgstr ""
+
+#: archive.php:35
+#: category.php:35
+#: comments.php:18
+#: page.php:28
+#: part-single-post.php:32
+#: search.php:35
+msgid "% Comments"
+msgstr ""
+
+#: author.php:23
+msgid "Ads by: "
+msgstr ""
+
+#: author.php:52
+msgid "Contact Person"
+msgstr ""
+
+#: author.php:54
+msgid "Phone"
+msgstr ""
+
+#: author.php:55
+msgid "Mobile"
+msgstr ""
+
+#: author.php:56
+msgid "Fax"
+msgstr ""
+
+#: author.php:66
+#: part-single-custom.php:126
+msgid "Location on Map"
+msgstr ""
+
+#: author.php:79
+msgid "Latest Ads"
+msgstr ""
+
+#: category.php:59
+msgid "&larr; Older Entries"
+msgstr ""
+
+#: category.php:60
+msgid "Newer Entries &rarr;"
+msgstr ""
+
+#: comments.php:18
+msgid "No Responses"
+msgstr ""
+
+#: comments.php:56
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:56
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:63
+#, php-format
+msgid "<p>You must be <a href=\"%s\">logged in</a> to post a comment.</p>"
+msgstr ""
+
+#: comments.php:76
+#, php-format
+msgid "Logged in as <a href=\"%1$s/wp-admin/profile.php\">%2$s</a>."
+msgstr ""
+
+#: comments.php:97
+msgid "Comment"
+msgstr ""
+
+#: comments.php:102
+msgid "Submit Comment"
+msgstr ""
+
+#: footer.php:29
+msgid "Follow Us"
+msgstr ""
+
+#: footer.php:30
+msgid "Facebook"
+msgstr ""
+
+#: index.php:6
+msgid "Featured Cars"
+msgstr ""
+
+#: index.php:76
+msgid "Browse Cars"
+msgstr ""
+
+#: index.php:121
+msgid "Search Cars"
+msgstr ""
+
+#: index.php:129
+#: index.php:136
+#: index.php:148
+#: index.php:160
+#: index.php:167
+#: index.php:174
+#: index.php:181
+#: index.php:188
+#, php-format
+msgid "Select %s"
+msgstr ""
+
+#: index.php:196
+#: index.php:205
+#: index.php:214
+#: index.php:223
+msgid "to"
+msgstr ""
+
+#: index.php:230
+msgid "Search"
+msgstr ""
+
+#: index.php:231
+msgid "Advanced Search"
+msgstr ""
+
+#: index.php:247
+msgid "Latest Cars"
+msgstr ""
+
+#: index.php:310
+msgid "Car Dealers"
+msgstr ""
+
+#: login-popup.php:5
+msgid "User Login"
+msgstr ""
+
+#: login-popup.php:6
+msgid "Home"
+msgstr ""
+
+#: page.php:34
+#: part-single-post.php:39
+msgid "Tweet this article"
+msgstr ""
+
+#: part-single-custom.php:16
+msgid "Ad Details"
+msgstr ""
+
+#: part-single-custom.php:81
+msgid "Previous"
+msgstr ""
+
+#: part-single-custom.php:82
+msgid "Next"
+msgstr ""
+
+#: part-single-custom.php:96
+msgid "Description"
+msgstr ""
+
+#: part-single-custom.php:97
+#: taxonomy.php:80
+msgid "Add to Watchlist"
+msgstr ""
+
+#: part-single-custom.php:104
+msgid "Ad Video"
+msgstr ""
+
+#: part-single-custom.php:136
+msgid "Seller Info"
+msgstr ""
+
+#: part-single-custom.php:140
+#: part-single-custom.php:163
+msgid "Seller Name"
+msgstr ""
+
+#: part-single-custom.php:142
+msgid "Phone Number"
+msgstr ""
+
+#: part-single-custom.php:144
+msgid "Mobile Number"
+msgstr ""
+
+#: part-single-custom.php:146
+msgid "Ad Date"
+msgstr ""
+
+#: part-single-custom.php:153
+msgid "Contact to Seller"
+msgstr ""
+
+#: part-single-custom.php:168
+msgid "Your Name"
+msgstr ""
+
+#: part-single-custom.php:173
+msgid "Email"
+msgstr ""
+
+#: part-single-custom.php:178
+msgid "Your Message"
+msgstr ""
+
+#: part-single-custom.php:189
+msgid "Send Message"
+msgstr ""
+
+#: part-single-custom.php:205
+msgid "Features"
+msgstr ""
+
+#: part-single-custom.php:425
+msgid "Autotrader Ad Message"
+msgstr ""
+
+#: search.php:6
+msgid "Search Results"
+msgstr ""
+
+#: search.php:54
+msgid "Your search did not match any entry."
+msgstr ""
+
+#: taxonomy.php:81
+msgid "View Details"
+msgstr ""
+
+#: taxonomy.php:92
+msgid "No ad could be found matching your search criteria."
+msgstr ""
+
+#: template-contact-form.php:38
+msgid "Get in touch"
+msgstr ""
+
+#: template-contact-form.php:73
+msgid "Submit Message"
+msgstr ""
+
+#: template-contact-form.php:178
+msgid "Autotrader Contact Form Message"
+msgstr ""
+
+#: template-dealer-form.php:93
+msgid "Your dealer informations have been updated successfully."
+msgstr ""
+
+#: template-dealer-form.php:97
+msgid "Sorry, an error occured while updating your informations. Please try again."
+msgstr ""
+
+#: template-dealer-form.php:103
+msgid "Dealer Information"
+msgstr ""
+
+#: template-dealer-form.php:124
+msgid "Dealer Title"
+msgstr ""
+
+#: template-dealer-form.php:135
+msgid "Upload Logo"
+msgstr ""
+
+#: template-dealer-form.php:137
+msgid "w:140px; h:80px"
+msgstr ""
+
+#: template-dealer-form.php:151
+#: template-edit-an-ad.php:336
+#: template-post-an-ad.php:278
+msgid "Mobile Phone"
+msgstr ""
+
+#: template-dealer-form.php:156
+msgid "Fax Number"
+msgstr ""
+
+#: template-dealer-form.php:161
+msgid "Address"
+msgstr ""
+
+#: template-dealer-form.php:166
+msgid "City"
+msgstr ""
+
+#: template-dealer-form.php:174
+msgid "Map"
+msgstr ""
+
+#: template-dealer-form.php:185
+msgid "Save"
+msgstr ""
+
+#: template-edit-an-ad.php:50
+#: template-edit-an-ad.php:405
+msgid "The ad you were trying to edit could not be found"
+msgstr ""
+
+#: template-edit-an-ad.php:65
+#: template-edit-an-ad.php:420
+msgid "You are not authorized to edit this ad."
+msgstr ""
+
+#: template-edit-an-ad.php:86
+msgid "Update Your Ad"
+msgstr ""
+
+#: template-edit-an-ad.php:93
+#: template-post-an-ad.php:42
+msgid "Please fill all the required fields."
+msgstr ""
+
+#: template-edit-an-ad.php:100
+#: template-post-an-ad.php:49
+msgid "Details"
+msgstr ""
+
+#: template-edit-an-ad.php:101
+#: template-post-an-ad.php:50
+msgid "Contact"
+msgstr ""
+
+#: template-edit-an-ad.php:102
+msgid "Update"
+msgstr ""
+
+#: template-edit-an-ad.php:210
+#: template-edit-an-ad.php:312
+#: template-edit-an-ad.php:341
+#: template-post-an-ad.php:158
+#: template-post-an-ad.php:254
+#: template-post-an-ad.php:283
+msgid "Next Step"
+msgstr ""
+
+#: template-edit-an-ad.php:216
+#: template-post-an-ad.php:163
+#, php-format
+msgid "Set a featured ad for only %s %s."
+msgstr ""
+
+#: template-edit-an-ad.php:227
+#: template-post-an-ad.php:174
+#: template-user-dashboard.php:56
+msgid "Title"
+msgstr ""
+
+#: template-edit-an-ad.php:280
+#: template-post-an-ad.php:219
+msgid "Locate on Map"
+msgstr ""
+
+#: template-edit-an-ad.php:290
+#: template-post-an-ad.php:230
+msgid "Embed Video"
+msgstr ""
+
+#: template-edit-an-ad.php:292
+#: template-post-an-ad.php:232
+msgid "Video ID"
+msgstr ""
+
+#: template-edit-an-ad.php:297
+#: template-post-an-ad.php:237
+msgid "Video Source"
+msgstr ""
+
+#: template-edit-an-ad.php:299
+#: template-post-an-ad.php:239
+msgid "Youtube"
+msgstr ""
+
+#: template-edit-an-ad.php:300
+#: template-post-an-ad.php:240
+msgid "Vimeo"
+msgstr ""
+
+#: template-edit-an-ad.php:301
+#: template-post-an-ad.php:241
+msgid "Viddler"
+msgstr ""
+
+#: template-edit-an-ad.php:305
+#: template-post-an-ad.php:245
+msgid "Show video instead of featured photo"
+msgstr ""
+
+#: template-edit-an-ad.php:352
+#: template-post-an-ad.php:294
+msgid "Terms & Conditions"
+msgstr ""
+
+#: template-edit-an-ad.php:359
+#: template-post-an-ad.php:301
+msgid "I agree to the terms and conditions"
+msgstr ""
+
+#: template-edit-an-ad.php:366
+#: template-post-an-ad.php:51
+#: template-post-an-ad.php:307
+msgid "Submit"
+msgstr ""
+
+#: template-edit-an-ad.php:553
+msgid "Sorry, an error occured while updating your advertisement. <br/>Please try to submit again."
+msgstr ""
+
+#: template-edit-an-ad.php:562
+msgid "Your ad has been successfully updated."
+msgstr ""
+
+#: template-edit-an-ad.php:566
+#, php-format
+msgid "Thanks for updating your advertisement. <br/> Your advertisement ID: <b>#%1$s </b><br/> Your advertisement will be re-published after moderation."
+msgstr ""
+
+#: template-edit-an-ad.php:573
+#: template-post-an-ad.php:495
+msgid "You will be automotically redirected to Paypal site to complete your order."
+msgstr ""
+
+#: template-post-an-ad.php:35
+msgid "Submit Your Ad"
+msgstr ""
+
+#: template-post-an-ad.php:209
+msgid "Upload Photos"
+msgstr ""
+
+#: template-post-an-ad.php:331
+msgid "You are not authorized to submit an ad. <br/>Please log in."
+msgstr ""
+
+#: template-post-an-ad.php:436
+msgid "Sorry, an error occured while posting your advertisement. <br/>Please try to submit again."
+msgstr ""
+
+#: template-post-an-ad.php:474
+msgid "Sorry, an error occured while uploading ad photos. <br/>Please contact the administrator."
+msgstr ""
+
+#: template-post-an-ad.php:483
+msgid "Your ad has been successfully submitted."
+msgstr ""
+
+#: template-post-an-ad.php:487
+#, php-format
+msgid "Thanks for submitting your advertisement. <br/> Your advertisement ID: <b>#%1$s </b><br/> Your advertisement will be published after moderation."
+msgstr ""
+
+#: template-search-results.php:57
+#: template-watchlist.php:36
+msgid "Sort by"
+msgstr ""
+
+#: template-search-results.php:59
+#: template-watchlist.php:38
+msgid "Date (Newest > Oldest)"
+msgstr ""
+
+#: template-search-results.php:60
+#: template-watchlist.php:39
+msgid "Date (Oldest > Newest)"
+msgstr ""
+
+#: template-search-results.php:61
+#: template-watchlist.php:40
+msgid "Price (Low > High)"
+msgstr ""
+
+#: template-search-results.php:62
+#: template-watchlist.php:41
+msgid "Price (High > Low)"
+msgstr ""
+
+#: template-search.php:25
+msgid "Find Your Car"
+msgstr ""
+
+#: template-search.php:150
+msgid "Keyword"
+msgstr ""
+
+#: template-user-dashboard.php:37
+msgid "Your Ads"
+msgstr ""
+
+#: template-user-dashboard.php:47
+msgid "Published"
+msgstr ""
+
+#: template-user-dashboard.php:48
+msgid "Pending"
+msgstr ""
+
+#: template-user-dashboard.php:49
+msgid "Deleted"
+msgstr ""
+
+#: template-user-dashboard.php:57
+msgid "Date"
+msgstr ""
+
+#: template-user-dashboard.php:58
+msgid "Price"
+msgstr ""
+
+#: template-user-dashboard.php:59
+#: functions/dox_functions.php:1651
+msgid "Edit"
+msgstr ""
+
+#: template-user-dashboard.php:60
+#: functions/dox_functions.php:1652
+msgid "Delete"
+msgstr ""
+
+#: template-user-dashboard.php:211
+msgid "Are you sure to delete this ad PERMANENTLY?"
+msgstr ""
+
+#: template-user-dashboard.php:238
+msgid "Are you sure to delete this ad?"
+msgstr ""
+
+#: template-user-profile.php:63
+msgid "Your profile has been updated successfully."
+msgstr ""
+
+#: template-user-profile.php:75
+msgid "Change Your Profile"
+msgstr ""
+
+#: template-user-profile.php:103
+msgid "Name"
+msgstr ""
+
+#: template-user-profile.php:105
+#: top-panel.php:61
+msgid "Username"
+msgstr ""
+
+#: template-user-profile.php:107
+msgid "Usernames cannot be changed."
+msgstr ""
+
+#: template-user-profile.php:111
+msgid "First Name"
+msgstr ""
+
+#: template-user-profile.php:116
+msgid "Last Name"
+msgstr ""
+
+#: template-user-profile.php:121
+msgid "Nickname"
+msgstr ""
+
+#: template-user-profile.php:121
+#: template-user-profile.php:162
+msgid "(required)"
+msgstr ""
+
+#: template-user-profile.php:126
+msgid "Display name publicly as"
+msgstr ""
+
+#: template-user-profile.php:160
+msgid "Contact Info"
+msgstr ""
+
+#: template-user-profile.php:162
+msgid "E-mail"
+msgstr ""
+
+#: template-user-profile.php:167
+msgid "Website"
+msgstr ""
+
+#: template-user-profile.php:173
+msgid "About Yourself"
+msgstr ""
+
+#: template-user-profile.php:175
+msgid "Biographical Info"
+msgstr ""
+
+#: template-user-profile.php:177
+msgid "Share a little biographical information to fill out your profile. This may be shown publicly."
+msgstr ""
+
+#: template-user-profile.php:185
+msgid "New Password"
+msgstr ""
+
+#: template-user-profile.php:186
+msgid "If you would like to change the password type a new one. Otherwise leave this blank."
+msgstr ""
+
+#: template-user-profile.php:189
+msgid "Type your new password again."
+msgstr ""
+
+#: template-user-profile.php:199
+msgid "Update Profile"
+msgstr ""
+
+#: template-watchlist.php:29
+#: functions/dox_functions.php:1029
+msgid "No ad could be found at your watchlist."
+msgstr ""
+
+#: template-watchlist.php:34
+msgid "Delete all"
+msgstr ""
+
+#: template-watchlist.php:221
+msgid "Are you sure to delete all watchlist ads?"
+msgstr ""
+
+#: top-panel.php:28
+#: top-panel.php:94
+msgid "MY ACCOUNT"
+msgstr ""
+
+#: top-panel.php:33
+msgid "My Published Ads"
+msgstr ""
+
+#: top-panel.php:39
+msgid "User Profile"
+msgstr ""
+
+#: top-panel.php:43
+msgid "Log Out"
+msgstr ""
+
+#: top-panel.php:57
+msgid "Register"
+msgstr ""
+
+#: top-panel.php:65
+msgid "Your Email"
+msgstr ""
+
+#: top-panel.php:69
+msgid "A password will be e-mailed to you."
+msgstr ""
+
+#: top-panel.php:73
+msgid "Sign up"
+msgstr ""
+
+#: top-panel.php:94
+msgid "POST A FREE AD"
+msgstr ""
+
+#: top-panel.php:104
+msgid "Thank you for sign up to Autotrader. <br/>Please check your email for the password!"
+msgstr ""
+
+#: top-panel.php:123
+msgid "Please enter an username and an e-mail address"
+msgstr ""
+
+#: top-panel.php:142
+msgid "Please enter your username and password"
+msgstr ""
+
+#: functions/dox_functions.php:177
+msgid "reCaptcha valid."
+msgstr ""
+
+#: functions/dox_functions.php:182
+msgid "We weren\"t able to verify the private key."
+msgstr ""
+
+#: functions/dox_functions.php:185
+msgid "The challenge parameter of the verify script was incorrect."
+msgstr ""
+
+#: functions/dox_functions.php:188
+msgid "The CAPTCHA solution was incorrect."
+msgstr ""
+
+#: functions/dox_functions.php:191
+#: functions/dox_functions.php:194
+msgid "CAPTCHA error"
+msgstr ""
+
+#: functions/dox_functions.php:249
+msgid "Please enter your name."
+msgstr ""
+
+#: functions/dox_functions.php:254
+msgid "Please enter e-mail address."
+msgstr ""
+
+#: functions/dox_functions.php:257
+msgid "Please enter a valid email address."
+msgstr ""
+
+#: functions/dox_functions.php:262
+msgid "Please enter your message."
+msgstr ""
+
+#: functions/dox_functions.php:272
+msgid "[Autotrader Message]"
+msgstr ""
+
+#: functions/dox_functions.php:273
+msgid "Name: "
+msgstr ""
+
+#: functions/dox_functions.php:274
+msgid ""
+"\n"
+"\n"
+"Email: "
+msgstr ""
+
+#: functions/dox_functions.php:275
+msgid ""
+"\n"
+"\n"
+"Phone: "
+msgstr ""
+
+#: functions/dox_functions.php:276
+msgid ""
+"\n"
+"\n"
+"Ad URL: "
+msgstr ""
+
+#: functions/dox_functions.php:277
+msgid ""
+"\n"
+"\n"
+"Message: "
+msgstr ""
+
+#: functions/dox_functions.php:278
+msgid "From: no-reply@inoart.com "
+msgstr ""
+
+#: functions/dox_functions.php:278
+msgid "Reply-To: "
+msgstr ""
+
+#: functions/dox_functions.php:285
+msgid "Your message has been sent succesfully."
+msgstr ""
+
+#: functions/dox_functions.php:289
+msgid "Sorry, an error occured while sending your message. Please try again."
+msgstr ""
+
+#: functions/dox_functions.php:435
+msgid "No ad could be found."
+msgstr ""
+
+#: functions/dox_functions.php:443
+#: functions/dox_functions.php:867
+msgid "Sorry, an error occured."
+msgstr ""
+
+#: functions/dox_functions.php:907
+#: functions/dox_functions.php:1607
+msgid "You are not authorized to view this data."
+msgstr ""
+
+#: functions/dox_functions.php:1009
+msgid "Delete Watchlist"
+msgstr ""
+
+#: functions/dox_functions.php:1035
+msgid "Sorry, no ad could found at your watchlist."
+msgstr ""
+
+#: functions/dox_functions.php:1068
+msgid "You are not authorized to delete watchlist"
+msgstr ""
+
+#: functions/dox_functions.php:1080
+msgid "Sorry, an error occured while deleting your watchlist. Please try again."
+msgstr ""
+
+#: functions/dox_functions.php:1084
+msgid "All ads have been deleted from your watchlist successfully."
+msgstr ""
+
+#: functions/dox_functions.php:1117
+#: functions/dox_functions.php:1187
+msgid "Please login to use this function."
+msgstr ""
+
+#: functions/dox_functions.php:1143
+msgid "Sorry, an error occured while deleting ad from watchlist. Please try again."
+msgstr ""
+
+#: functions/dox_functions.php:1147
+msgid "The ad has been deleted from your watchlist successfully."
+msgstr ""
+
+#: functions/dox_functions.php:1154
+msgid "The ad does not exist at your watchlist. "
+msgstr ""
+
+#: functions/dox_functions.php:1204
+#: functions/dox_functions.php:1357
+#: functions/dox_functions.php:1426
+msgid "The ad could not found."
+msgstr ""
+
+#: functions/dox_functions.php:1218
+msgid "Hey, the post is already exist in your watchlist."
+msgstr ""
+
+#: functions/dox_functions.php:1234
+msgid "Sorry, an error occured while adding the ad to watchlist. Please try again."
+msgstr ""
+
+#: functions/dox_functions.php:1238
+msgid "The post has been added to your watchlist successfully."
+msgstr ""
+
+#: functions/dox_functions.php:1297
+msgid "Pages"
+msgstr ""
+
+#: functions/dox_functions.php:1369
+#: functions/dox_functions.php:1438
+msgid "You are not authorized to delete this ad."
+msgstr ""
+
+#: functions/dox_functions.php:1382
+#: functions/dox_functions.php:1455
+msgid "Sorry, an error occured while deleting ad. Please try again."
+msgstr ""
+
+#: functions/dox_functions.php:1386
+#: functions/dox_functions.php:1459
+msgid "The ad has been deleted successfully."
+msgstr ""
+
+#: functions/dox_functions.php:1664
+msgid "No ad found."
+msgstr ""
+
+#: functions/dox_functions.php:1672
+msgid "An error occured. Check query parameters."
+msgstr ""
+
+#: functions/dox_functions.php:1806
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: functions/dox_functions.php:1806
+msgid "(Edit)"
+msgstr ""
+
+#: functions/dox_functions.php:2005
+#: functions/dox_functions.php:2006
+#: functions/dox_functions.php:2007
+#: functions/dox_functions.php:2008
+#: functions/dox_functions.php:2009
+#: functions/dox_functions.php:2010
+#: functions/dox_functions.php:2011
+#, php-format
+msgid "Browse by %s: %s"
+msgstr ""
+
+#: functions/dox_nav_menu.php:10
+msgid "Nav Menu"
+msgstr ""
+
+#: functions/dox_nav_menu.php:11
+msgid "Footer Menu"
+msgstr ""
+
+#: functions/dox_post_types.php:32
+#: functions/dox_post_types.php:33
+#: functions/dox_taxonomies.php:31
+#: functions/dox_taxonomies.php:32
+#: functions/dox_taxonomies.php:69
+#: functions/dox_taxonomies.php:70
+#: functions/dox_taxonomies.php:107
+#: functions/dox_taxonomies.php:108
+#: functions/dox_taxonomies.php:145
+#: functions/dox_taxonomies.php:146
+#: functions/dox_taxonomies.php:183
+#: functions/dox_taxonomies.php:184
+#: functions/dox_taxonomies.php:221
+#: functions/dox_taxonomies.php:222
+#: functions/dox_taxonomies.php:259
+#: functions/dox_taxonomies.php:260
+#: functions/dox_taxonomies.php:297
+#: functions/dox_taxonomies.php:298
+#: functions/dox_taxonomies.php:338
+#: functions/dox_taxonomies.php:339
+#, php-format
+msgid "%ss"
+msgstr ""
+
+#: functions/dox_post_types.php:34
+#: functions/dox_post_types.php:35
+#: functions/dox_taxonomies.php:35
+#: functions/dox_taxonomies.php:73
+#: functions/dox_taxonomies.php:111
+#: functions/dox_taxonomies.php:149
+#: functions/dox_taxonomies.php:187
+#: functions/dox_taxonomies.php:225
+#: functions/dox_taxonomies.php:263
+#: functions/dox_taxonomies.php:301
+#: functions/dox_taxonomies.php:342
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: functions/dox_post_types.php:36
+#: functions/dox_taxonomies.php:33
+#: functions/dox_taxonomies.php:71
+#: functions/dox_taxonomies.php:109
+#: functions/dox_taxonomies.php:147
+#: functions/dox_taxonomies.php:185
+#: functions/dox_taxonomies.php:223
+#: functions/dox_taxonomies.php:261
+#: functions/dox_taxonomies.php:299
+#: functions/dox_taxonomies.php:340
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: functions/dox_post_types.php:37
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: functions/dox_post_types.php:38
+#: functions/dox_taxonomies.php:38
+#: functions/dox_taxonomies.php:76
+#: functions/dox_taxonomies.php:114
+#: functions/dox_taxonomies.php:152
+#: functions/dox_taxonomies.php:190
+#: functions/dox_taxonomies.php:228
+#: functions/dox_taxonomies.php:266
+#: functions/dox_taxonomies.php:304
+#: functions/dox_taxonomies.php:345
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: functions/dox_post_types.php:39
+#, php-format
+msgid "No %s Found"
+msgstr ""
+
+#: functions/dox_post_types.php:40
+#, php-format
+msgid "No %s Found In Trash"
+msgstr ""
+
+#: functions/dox_taxonomies.php:34
+#: functions/dox_taxonomies.php:72
+#: functions/dox_taxonomies.php:110
+#: functions/dox_taxonomies.php:148
+#: functions/dox_taxonomies.php:186
+#: functions/dox_taxonomies.php:224
+#: functions/dox_taxonomies.php:262
+#: functions/dox_taxonomies.php:300
+#: functions/dox_taxonomies.php:341
+#, php-format
+msgid "Update %s"
+msgstr ""
+
+#: functions/dox_taxonomies.php:36
+#: functions/dox_taxonomies.php:74
+#: functions/dox_taxonomies.php:112
+#: functions/dox_taxonomies.php:150
+#: functions/dox_taxonomies.php:188
+#: functions/dox_taxonomies.php:226
+#: functions/dox_taxonomies.php:264
+#: functions/dox_taxonomies.php:302
+#: functions/dox_taxonomies.php:343
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: functions/dox_taxonomies.php:37
+#: functions/dox_taxonomies.php:75
+#: functions/dox_taxonomies.php:113
+#: functions/dox_taxonomies.php:151
+#: functions/dox_taxonomies.php:189
+#: functions/dox_taxonomies.php:227
+#: functions/dox_taxonomies.php:265
+#: functions/dox_taxonomies.php:303
+#: functions/dox_taxonomies.php:344
+#, php-format
+msgid "All %s"
+msgstr ""
+
+#: functions/dox_taxonomies.php:39
+#: functions/dox_taxonomies.php:77
+#: functions/dox_taxonomies.php:115
+#: functions/dox_taxonomies.php:153
+#: functions/dox_taxonomies.php:191
+#: functions/dox_taxonomies.php:229
+#: functions/dox_taxonomies.php:267
+#: functions/dox_taxonomies.php:305
+#: functions/dox_taxonomies.php:346
+#, php-format
+msgid "Popular %ss"
+msgstr ""
+
+#: functions/dox_taxonomies.php:40
+#: functions/dox_taxonomies.php:41
+#: functions/dox_taxonomies.php:78
+#: functions/dox_taxonomies.php:79
+#: functions/dox_taxonomies.php:116
+#: functions/dox_taxonomies.php:117
+#: functions/dox_taxonomies.php:154
+#: functions/dox_taxonomies.php:155
+#: functions/dox_taxonomies.php:192
+#: functions/dox_taxonomies.php:193
+#: functions/dox_taxonomies.php:230
+#: functions/dox_taxonomies.php:231
+#: functions/dox_taxonomies.php:268
+#: functions/dox_taxonomies.php:269
+#: functions/dox_taxonomies.php:306
+#: functions/dox_taxonomies.php:307
+#: functions/dox_taxonomies.php:347
+#: functions/dox_taxonomies.php:348
+#, php-format
+msgid "Parent %s"
+msgstr ""
+
+#: functions/dox_theme_options.php:39
+msgid "AutoTrader"
+msgstr ""
+
+#: functions/dox_theme_options.php:563
+msgid "General Settings"
+msgstr ""
+
+#: functions/dox_theme_options.php:564
+msgid "HomePage Settings"
+msgstr ""
+
+#: functions/dox_theme_options.php:565
+msgid "Blog Options"
+msgstr ""
+
+#: functions/dox_theme_options.php:566
+msgid "Ad Settings"
+msgstr ""
+
+#: functions/dox_theme_options.php:567
+msgid "Ad Options"
+msgstr ""
+
+#: functions/dox_theme_options.php:568
+msgid "Paypal Settings"
+msgstr ""
+
+#: functions/dox_theme_options.php:569
+msgid "Footer Settings"
+msgstr ""
+
+#: functions/dox_theme_options.php:570
+msgid "reCaptcha Options"
+msgstr ""
+
+#: functions/dox_theme_options.php:571
+msgid "Map Options"
+msgstr ""
+
+#: functions/dox_theme_options.php:572
+msgid "Color Options"
+msgstr ""
+
+#: functions/dox_theme_options.php:578
+msgid "Theme settings saved."
+msgstr ""
+
+#: functions/dox_theme_options.php:583
+#, php-format
+msgid "Autotrader Theme Settings <small><em>(version %1$s)</em></small>"
+msgstr ""
+
+#: functions/dox_theme_options.php:600
+#: functions/dox_theme_options.php:603
+msgid "Reset Settings"
+msgstr ""
+
+#: functions/dox_theme_options.php:608
+#: functions/dox_theme_options.php:736
+#: functions/dox_theme_options.php:863
+#: functions/dox_theme_options.php:883
+#: functions/dox_theme_options.php:969
+#: functions/dox_theme_options.php:1401
+#: functions/dox_theme_options.php:1440
+#: functions/dox_theme_options.php:1480
+#: functions/dox_theme_options.php:1538
+#: functions/dox_theme_options.php:1576
+#: functions/dox_theme_options.php:2560
+msgid "Save Changes"
+msgstr ""
+
+#: functions/dox_theme_options.php:709
+msgid "Upload Favicon"
+msgstr ""
+
+#: functions/dox_theme_options.php:715
+msgid "Upload"
+msgstr ""
+
+#: functions/dox_theme_options.php:765
+#: functions/dox_theme_options.php:782
+#: functions/dox_theme_options.php:799
+#: functions/dox_theme_options.php:816
+#: functions/dox_theme_options.php:833
+#: functions/dox_theme_options.php:850
+#: functions/dox_widgets.php:111
+msgid "Count"
+msgstr ""
+
+#: functions/dox_theme_options.php:767
+#: functions/dox_theme_options.php:784
+#: functions/dox_theme_options.php:801
+#: functions/dox_theme_options.php:818
+#: functions/dox_theme_options.php:835
+#: functions/dox_theme_options.php:852
+msgid "ID"
+msgstr ""
+
+#: functions/dox_theme_options.php:770
+#: functions/dox_theme_options.php:787
+#: functions/dox_theme_options.php:804
+#: functions/dox_theme_options.php:821
+#: functions/dox_theme_options.php:838
+#: functions/dox_theme_options.php:855
+#: functions/dox_widgets.php:119
+msgid "Descending"
+msgstr ""
+
+#: functions/dox_theme_options.php:771
+#: functions/dox_theme_options.php:788
+#: functions/dox_theme_options.php:805
+#: functions/dox_theme_options.php:822
+#: functions/dox_theme_options.php:839
+#: functions/dox_theme_options.php:856
+#: functions/dox_widgets.php:120
+msgid "Ascending"
+msgstr ""
+
+#: functions/dox_theme_options.php:934
+msgid "Enable Free Ads"
+msgstr ""
+
+#: functions/dox_theme_options.php:939
+msgid "Enable Featured Ads"
+msgstr ""
+
+#: functions/dox_theme_options.php:961
+msgid "Show empty features at ad details page"
+msgstr ""
+
+#: functions/dox_theme_options.php:996
+#: functions/dox_theme_options.php:1028
+#: functions/dox_theme_options.php:1064
+#: functions/dox_theme_options.php:1101
+#: functions/dox_theme_options.php:1133
+#: functions/dox_theme_options.php:1165
+#: functions/dox_theme_options.php:1197
+#: functions/dox_theme_options.php:1229
+#: functions/dox_theme_options.php:1261
+#: functions/dox_theme_options.php:1277
+#: functions/dox_theme_options.php:1309
+#: functions/dox_theme_options.php:1341
+#: functions/dox_theme_options.php:1373
+msgid "Show Field"
+msgstr ""
+
+#: functions/dox_theme_options.php:1006
+#: functions/dox_theme_options.php:1042
+#: functions/dox_theme_options.php:1078
+#: functions/dox_theme_options.php:1111
+#: functions/dox_theme_options.php:1143
+#: functions/dox_theme_options.php:1175
+#: functions/dox_theme_options.php:1207
+#: functions/dox_theme_options.php:1239
+#: functions/dox_theme_options.php:1287
+#: functions/dox_theme_options.php:1319
+#: functions/dox_theme_options.php:1351
+#: functions/dox_theme_options.php:1383
+msgid "Required Field"
+msgstr ""
+
+#: functions/dox_theme_options.php:1011
+#: functions/dox_theme_options.php:1047
+#: functions/dox_theme_options.php:1083
+#: functions/dox_theme_options.php:1116
+#: functions/dox_theme_options.php:1148
+#: functions/dox_theme_options.php:1180
+#: functions/dox_theme_options.php:1212
+#: functions/dox_theme_options.php:1244
+#: functions/dox_theme_options.php:1292
+#: functions/dox_theme_options.php:1324
+#: functions/dox_theme_options.php:1356
+#: functions/dox_theme_options.php:1388
+msgid "Show on lists"
+msgstr ""
+
+#: functions/dox_theme_options.php:1016
+#: functions/dox_theme_options.php:1052
+#: functions/dox_theme_options.php:1088
+#: functions/dox_theme_options.php:1121
+#: functions/dox_theme_options.php:1153
+#: functions/dox_theme_options.php:1185
+#: functions/dox_theme_options.php:1217
+#: functions/dox_theme_options.php:1249
+#: functions/dox_theme_options.php:1297
+#: functions/dox_theme_options.php:1329
+#: functions/dox_theme_options.php:1361
+#: functions/dox_theme_options.php:1393
+msgid "Show on searchbox"
+msgstr ""
+
+#: functions/dox_theme_options.php:1416
+msgid "Enable Paypal Payments"
+msgstr ""
+
+#: functions/dox_theme_options.php:1423
+msgid "Enable Paypal Live Payments"
+msgstr ""
+
+#: functions/dox_theme_options.php:1495
+msgid "Enable reCaptcha"
+msgstr ""
+
+#: functions/dox_theme_options.php:1503
+msgid "Get Key"
+msgstr ""
+
+#: functions/dox_theme_options.php:1514
+msgid "Red"
+msgstr ""
+
+#: functions/dox_theme_options.php:1515
+msgid "White"
+msgstr ""
+
+#: functions/dox_theme_options.php:1516
+msgid "BlackGlass"
+msgstr ""
+
+#: functions/dox_theme_options.php:1517
+msgid "Clean"
+msgstr ""
+
+#: functions/dox_theme_options.php:1524
+msgid "DE"
+msgstr ""
+
+#: functions/dox_theme_options.php:1525
+msgid "EN"
+msgstr ""
+
+#: functions/dox_theme_options.php:1526
+msgid "ES"
+msgstr ""
+
+#: functions/dox_theme_options.php:1527
+msgid "FR"
+msgstr ""
+
+#: functions/dox_theme_options.php:1528
+msgid "NL"
+msgstr ""
+
+#: functions/dox_theme_options.php:1529
+msgid "PT"
+msgstr ""
+
+#: functions/dox_theme_options.php:1530
+msgid "RU"
+msgstr ""
+
+#: functions/dox_theme_options.php:1531
+msgid "TR"
+msgstr ""
+
+#: functions/dox_theme_options.php:1553
+msgid "Enable Map"
+msgstr ""
+
+#: functions/dox_theme_options.php:1591
+msgid "Enable Custom Colors"
+msgstr ""
+
+#: functions/dox_widgets.php:14
+msgid "Browse autos by category"
+msgstr ""
+
+#: functions/dox_widgets.php:17
+msgid "DOX: Browse Autos"
+msgstr ""
+
+#: functions/dox_widgets.php:64
+#: functions/dox_widgets.php:242
+#: functions/dox_widgets.php:482
+msgid "Title:"
+msgstr ""
+
+#: functions/dox_widgets.php:68
+msgid "Browse Category"
+msgstr ""
+
+#: functions/dox_widgets.php:105
+msgid "Number of terms to show:"
+msgstr ""
+
+#: functions/dox_widgets.php:109
+msgid "Order by:"
+msgstr ""
+
+#: functions/dox_widgets.php:113
+msgid "Term ID"
+msgstr ""
+
+#: functions/dox_widgets.php:117
+msgid "Order:"
+msgstr ""
+
+#: functions/dox_widgets.php:140
+msgid "Show posts"
+msgstr ""
+
+#: functions/dox_widgets.php:143
+msgid "DOX: Show Posts"
+msgstr ""
+
+#: functions/dox_widgets.php:211
+msgid "Sorry, an error occured. Check widget parameters."
+msgstr ""
+
+#: functions/dox_widgets.php:246
+msgid "Post's Category"
+msgstr ""
+
+#: functions/dox_widgets.php:249
+msgid "Featured Ads"
+msgstr ""
+
+#: functions/dox_widgets.php:250
+msgid "Latest Blog Posts"
+msgstr ""
+
+#: functions/dox_widgets.php:254
+msgid "Number of posts to show:"
+msgstr ""
+
+#: functions/dox_widgets.php:274
+msgid "Search Autos Box"
+msgstr ""
+
+#: functions/dox_widgets.php:277
+msgid "DOX: Search Autos"
+msgstr ""
+

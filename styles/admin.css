@@ -1,0 +1,20 @@
+.wrap { width: 800px; }
+
+.wrap .postbox { margin-top: 20px; }
+.inside  { position: relative; }
+.inside ul li { position: relative; width: 100%; margin-bottom: 10px; }
+.inside ul li label { float: left; display: block; width: 180px; line-height: 22px; }
+
+.colorbox { float: left; }
+.colorshow { float: left; margin: 2px 4px 0px 4px; width: 21px; height: 21px; content:""; border: 1px solid #cccccc; }
+
+.dox-tab { margin: 20px 15px 0px; padding-bottom: 20px; }
+span.dash { float: left; line-height: 24px; color: #bbbbbb; }
+.dox-tab ul li label { float: left; display: block; width: 220px; line-height: 22px; }
+.dox-tab ul li span { line-height: 26px; }
+
+.fLeft { position: relative; float: left; margin-right: 20px; }
+label.ad-set-label { float: left; display: block; width: 130px !important; margin-right: 15px !important; }
+label.wideLabel { width: 700px !important; }
+
+.marginT30 { margin-top: 30px; }
